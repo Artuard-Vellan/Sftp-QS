@@ -3,11 +3,13 @@
 A simple automation script for quickly setting up an SFTP server on Microsoft Windows 11.
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ 📚 Description
 
 This script automates the process of configuring an SFTP server on Windows 11, ensuring all necessary components are installed and properly set up.
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ ⚙️ Installation & Usage
 
 1. Download the script onto your local machine running Windows 11.
@@ -15,6 +17,7 @@ This script automates the process of configuring an SFTP server on Windows 11, e
 2. Run the script using PowerShell with administrative privileges (Run as Administrator).
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ ✨ Features
 
 - Automatically installs or checks for the presence of the OpenSSH.Server package.
@@ -24,6 +27,7 @@ This script automates the process of configuring an SFTP server on Windows 11, e
 - Creates a dedicated user account specifically for accessing the SFTP server.
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ 🛠️ Workflow (Step-by-step)
 
 ▌ Step 1. Checking and Installing the OpenSSH Server Package
