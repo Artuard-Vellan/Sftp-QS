@@ -51,16 +51,19 @@ The script adds necessary firewall rules to ensure uninterrupted communication o
 Finally, the script creates a new user account intended solely for secure file transfer via SFTP.
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ 👩‍💻 Author
 
 Feel free to contribute! Any suggestions or improvements are welcome!
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ 🔗 License
 
 Distributed under the MIT license. See LICENSE.md for more information.
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 ▌ 🌐 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated!
